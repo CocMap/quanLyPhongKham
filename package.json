@@ -1,0 +1,10 @@
+{
+  "name": "quanLyPhongKham",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tran Tran",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.0.5"
+  }
+}
